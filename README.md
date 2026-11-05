@@ -164,15 +164,15 @@ Cross-platform mobile discovery application built with React Native, Expo, and T
 
 <div align="center">
 
-<img src="./github-stats.svg" width="424" alt="Rohan's GitHub Stats" />
-<img src="./top-langs.svg" width="424" alt="Most Used Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=B00MMMM&amp;show_icons=true&amp;theme=dark&amp;hide_border=false&amp;bg_color=050505&amp;border_color=222226&amp;title_color=39d353&amp;icon_color=39d353&amp;text_color=a1a1aa" width="424" alt="Rohan's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=B00MMMM&amp;layout=compact&amp;theme=dark&amp;hide_border=false&amp;bg_color=050505&amp;border_color=222226&amp;title_color=39d353&amp;text_color=a1a1aa" width="424" alt="Most Used Languages" />
 
 <br><br>
 
-<img src="./streak-stats.svg" width="580" alt="GitHub Contribution Streak" />
+<img src="https://streak-stats.demolab.com/?user=B00MMMM&amp;theme=dark&amp;background=050505&amp;border=222226&amp;stroke=222226&amp;ring=39d353&amp;fire=39d353&amp;currStreakNum=39d353&amp;sideNums=f4f4f5&amp;sideLabels=71717a&amp;currStreakLabel=39d353&amp;dates=71717a" width="580" alt="GitHub Contribution Streak" />
 
 <br><br>
 
-<img src="./activity-graph.svg" width="860" alt="53-Week Contribution Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=B00MMMM&amp;theme=github-dark&amp;bg_color=050505&amp;color=39d353&amp;line=39d353&amp;point=f4f4f5&amp;area=true&amp;hide_border=false" width="860" alt="53-Week Contribution Activity Graph" />
 
 </div>
