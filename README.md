@@ -1,21 +1,178 @@
+<div align="center">
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=B00MMM&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=B00MMM&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=B00MMM&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<h3><code>b00mmmm@github ~ $ whoami</code></h3>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=B00MMM&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<table>
+<tr>
+<td valign="top">
+<img src="./rohan-ascii.svg" width="370" alt="ASCII portrait of Rohan John Thomas" />
+</td>
+<td valign="top">
+<img src="./info-card.svg" width="490" alt="neofetch profile summary for Rohan John Thomas" />
+</td>
+</tr>
+</table>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<br>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=B00MMM&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<h3><code>b00mmmm@github ~ $ ./contributions.sh</code></h3>
+
+<img src="./contrib-heatmap.svg" width="860" alt="Black Space-Shooter contribution heatmap" />
+
+</div>
+
+<br>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=B00MMM&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Socials
+
+[![Email](https://img.shields.io/badge/EMAIL-0a0a0c?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:rohanjohnthomas749@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0a0a0c?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/rohan-jt/)
+[![GitHub](https://img.shields.io/badge/GITHUB-0a0a0c?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/B00MMMM)
+
+---
+
+## Tech Stack
+
+**Languages**  
+![Python](https://img.shields.io/badge/PYTHON-0a0a0c?style=for-the-badge&logo=python&logoColor=3776AB)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-0a0a0c?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-0a0a0c?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![SQL](https://img.shields.io/badge/SQL-0a0a0c?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![PHP](https://img.shields.io/badge/PHP-0a0a0c?style=for-the-badge&logo=php&logoColor=777BB4)
+![C](https://img.shields.io/badge/C-0a0a0c?style=for-the-badge&logo=c&logoColor=A8B9CC)
+
+**Frameworks & Frontend**  
+![Next.js](https://img.shields.io/badge/NEXT.JS-0a0a0c?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)
+![React](https://img.shields.io/badge/REACT-0a0a0c?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/REACT_NATIVE-0a0a0c?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/EXPO-0a0a0c?style=for-the-badge&logo=expo&logoColor=FFFFFF)
+![Node.js](https://img.shields.io/badge/NODE.JS-0a0a0c?style=for-the-badge&logo=nodedotjs&logoColor=339933)
+![Express.js](https://img.shields.io/badge/EXPRESS.JS-0a0a0c?style=for-the-badge&logo=express&logoColor=FFFFFF)
+![Flask](https://img.shields.io/badge/FLASK-0a0a0c?style=for-the-badge&logo=flask&logoColor=FFFFFF)
+![Socket.io](https://img.shields.io/badge/SOCKET.IO-0a0a0c?style=for-the-badge&logo=socketdotio&logoColor=FFFFFF)
+![Redux](https://img.shields.io/badge/REDUX-0a0a0c?style=for-the-badge&logo=redux&logoColor=764ABC)
+![TailwindCSS](https://img.shields.io/badge/TAILWINDCSS-0a0a0c?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
+
+**Databases & ORM**  
+![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-0a0a0c?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![MySQL](https://img.shields.io/badge/MYSQL-0a0a0c?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![MongoDB](https://img.shields.io/badge/MONGODB-0a0a0c?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![Redis](https://img.shields.io/badge/REDIS-0a0a0c?style=for-the-badge&logo=redis&logoColor=DC382D)
+![Prisma](https://img.shields.io/badge/PRISMA-0a0a0c?style=for-the-badge&logo=prisma&logoColor=5A67D8)
+
+**AI / ML**  
+![OpenCV](https://img.shields.io/badge/OPENCV-0a0a0c?style=for-the-badge&logo=opencv&logoColor=5C3EE8)
+![scikit-learn](https://img.shields.io/badge/SCIKIT--LEARN-0a0a0c?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
+![NumPy](https://img.shields.io/badge/NUMPY-0a0a0c?style=for-the-badge&logo=numpy&logoColor=013243)
+![Pandas](https://img.shields.io/badge/PANDAS-0a0a0c?style=for-the-badge&logo=pandas&logoColor=150458)
+
+**Cloud, DevOps & Tools**  
+![AWS](https://img.shields.io/badge/AWS-0a0a0c?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
+![Docker](https://img.shields.io/badge/DOCKER-0a0a0c?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Nginx](https://img.shields.io/badge/NGINX-0a0a0c?style=for-the-badge&logo=nginx&logoColor=009639)
+![GitHub Actions](https://img.shields.io/badge/GITHUB_ACTIONS-0a0a0c?style=for-the-badge&logo=githubactions&logoColor=2088FF)
+![Linux](https://img.shields.io/badge/LINUX-0a0a0c?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Git](https://img.shields.io/badge/GIT-0a0a0c?style=for-the-badge&logo=git&logoColor=F05032)
+![Render](https://img.shields.io/badge/RENDER-0a0a0c?style=for-the-badge&logo=render&logoColor=46E3B7)
+
+---
+
+## Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Samyuktha 10.0 — Event Management Platform
+
+Full-stack registration and ticketing platform for a national-level college symposium, combining Next.js, TypeScript, and Prisma over MySQL with Razorpay payment integration for automated fee collection and spot registrations. Role-Based Access Control gives admins real-time dashboards and CSV exports, event coordinators scoped permissions, and participants instant digital passes.
+
+![Next.js](https://img.shields.io/badge/Next.js-0a0a0c?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-0a0a0c?style=flat-square&logo=typescript&logoColor=3178C6)
+![Prisma](https://img.shields.io/badge/Prisma-0a0a0c?style=flat-square&logo=prisma&logoColor=5A67D8)
+![MySQL](https://img.shields.io/badge/MySQL-0a0a0c?style=flat-square&logo=mysql&logoColor=4479A1)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0a0a0c?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
+![Razorpay](https://img.shields.io/badge/Razorpay-0a0a0c?style=flat-square&logo=razorpay&logoColor=3395FF)
+
+[Live Demo](https://samyuktha10.info/)
+
+</td>
+<td width="50%" valign="top">
+
+### [Beats — Real-Time Music & Social Platform](https://github.com/B00MMMM/Beats)
+
+Full-stack MERN music streaming and social listening platform pairing continuous audio playback and an admin media studio with live friend activity feeds. Socket.io WebSockets broadcast real-time listening status and direct chat messages with sub-second latency, backed by Zustand state management, Cloudinary media storage, and JWT authentication.
+
+![React](https://img.shields.io/badge/React-0a0a0c?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-0a0a0c?style=flat-square&logo=typescript&logoColor=3178C6)
+![Node.js](https://img.shields.io/badge/Node.js-0a0a0c?style=flat-square&logo=nodedotjs&logoColor=339933)
+![MongoDB](https://img.shields.io/badge/MongoDB-0a0a0c?style=flat-square&logo=mongodb&logoColor=47A248)
+![Socket.io](https://img.shields.io/badge/Socket.io-0a0a0c?style=flat-square&logo=socketdotio&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-0a0a0c?style=flat-square&logo=cloudinary&logoColor=3448C5)
+
+[Live Demo](https://beats-muzic.onrender.com/) · [Source](https://github.com/B00MMMM/Beats)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Closure — AI-Assisted Floor Plan Designer
+
+AI-assisted floor plan design system that generates and edits residential layouts using AI and natural language commands. Users define plot dimensions, budget, and room requirements; the system produces editable JSON floor plans. A built-in chatbot interprets natural language editing instructions, with SVG rendering and DXF export for CAD workflows.
+
+![React](https://img.shields.io/badge/React-0a0a0c?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-0a0a0c?style=flat-square&logo=nodedotjs&logoColor=339933)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a0a0c?style=flat-square&logo=postgresql&logoColor=4169E1)
+![Prisma](https://img.shields.io/badge/Prisma-0a0a0c?style=flat-square&logo=prisma&logoColor=5A67D8)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0a0a0c?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
+![Groq API](https://img.shields.io/badge/Groq_API-0a0a0c?style=flat-square&logo=groq&logoColor=F55036)
+
+[GitHub Profile](https://github.com/B00MMMM)
+
+</td>
+<td width="50%" valign="top">
+
+### MetaZZ — Cross-Platform Movie & TV App
+
+Cross-platform mobile discovery application built with React Native, Expo, and TypeScript, styled with NativeWind for native 60fps navigation across mobile form factors. Integrates the TMDB API for trending catalogs, cast profiles, ratings, and personalized watchlists with persistent offline-friendly storage, compiled and distributed as an Android APK.
+
+![React Native](https://img.shields.io/badge/React_Native-0a0a0c?style=flat-square&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-0a0a0c?style=flat-square&logo=expo&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-0a0a0c?style=flat-square&logo=typescript&logoColor=3178C6)
+![NativeWind](https://img.shields.io/badge/NativeWind-0a0a0c?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
+![TMDB API](https://img.shields.io/badge/TMDB_API-0a0a0c?style=flat-square&logo=themoviedatabase&logoColor=01B4E4)
+
+[GitHub Profile](https://github.com/B00MMMM)
+
+</td>
+</tr>
+</table>
+
+---
+
+## More Projects
+
+- **[Splash](https://github.com/B00MMMM/Splash)** — Deep-learning black-and-white image colorization web app deployed on AWS EC2 (Python, OpenCV DNN, Flask, NumPy, AWS EC2)
+- **[AEVA](https://github.com/B00MMMM/Aeva)** — Automated game deal discovery and price-comparison engine with Redis caching, Docker Compose, and AWS EC2 CI/CD deployment (React, Node.js, MongoDB, Redis, Docker, AWS EC2)
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img src="./github-stats.svg" width="424" alt="Rohan's GitHub Stats" />
+<img src="./top-langs.svg" width="424" alt="Most Used Languages" />
+
+<br><br>
+
+<img src="./streak-stats.svg" width="580" alt="GitHub Contribution Streak" />
+
+<br><br>
+
+<img src="./activity-graph.svg" width="860" alt="53-Week Contribution Activity Graph" />
+
+</div>
